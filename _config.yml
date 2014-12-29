@@ -5,7 +5,7 @@
 url: http://env-data-sci.com
 title: Environment Data Science
 email: info@env-data-sci.com
-description: > "Solving your science and data problems in the environmental sphere."
+description: > # "Solving your science and data problems in the environmental sphere."
 
 # ----------------------- #
 #    Jekyll & Plugins     #
