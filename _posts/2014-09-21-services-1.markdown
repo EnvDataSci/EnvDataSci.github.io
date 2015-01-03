@@ -2,8 +2,11 @@
 layout: default
 img: ipad.png
 category: Services
-title: Data munging:
+title: Death to the Stock Photo:<br>Special Thanks
 description: |
-  <p class="lead">is loosely the process of manually converting or mapping data from one "raw" form into another format that allows for more convenient consumption of the data with the help of semi-automated tools. <a
-  target="_blank" href="http://en.wikipedia.org/wiki/Data_wrangling">- Wikipedia</a></p>
+  <p class="lead">A special thanks to <a target="_blank"
+  href="http://join.deathtothestockphoto.com/">Death to the Stock
+  Photo</a> for providing the photographs that you see in this template.
+  Visit their website to become a member!</p>
+
 ---
