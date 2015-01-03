@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://env-data-sci.com
+url: http://yoursite.com
 title: Environment Data Science
 email: info@env-data-sci.com
 description: > # "Write an awesome description for your new site here. 
@@ -27,5 +27,5 @@ social:
     url: https://twitter.com/EnvDataSci
   - title: Google+
     url: https://plus.google.com/b/107826369878870426241/107826369878870426241
-  - title: linkedin
+  - title: LinkedIn
     url: https://www.linkedin.com/company/environment-data-science
